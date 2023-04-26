@@ -6,6 +6,7 @@ namespace 大话设计模式
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine("Hello World!");
         }
     }
